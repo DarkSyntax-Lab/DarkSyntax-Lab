@@ -4,48 +4,48 @@
 <div align="center">
 
 ```text
-  ██████╗  █████╗ ██████╗ ██╗  ██╗███████╗██╗   ██╗███╗   ██╗████████╗ █████╗ ██╗  ██╗      ██╗      █████╗ ██████╗ 
-  ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██║   ██║████╗  ██║╚══██╔══╝██╔══██╗██║ ██╔╝      ██║     ██╔══██╗██╔══██╗
-  ██║  ██║███████║██████╔╝█████╔╝ ███████╗██║   ██║██╔██╗ ██║   ██║   ███████║█████╔╝       ██║     ███████║██████╔╝
-  ██║  ██║██╔══██║██╔══██╗██╔═██╗ ╚════██║██║   ██║██║╚██╗██║   ██║   ██╔══██║██╔═██╗       ██║     ██╔══██║██╔══██╗
-  ██████╔╝██║  ██║██████╔╝██║  ██╗███████║╚██████╔╝██║ ╚██╗██║   ██║   ██║  ██║██║  ██╗███████╗███████╗██║  ██║██████╔╝
+  ██████╗  █████╗ ██████╗ ██╗  ██╗███████╗██╗   ██╗███╗   ██╗████████╗    ██╗      █████╗ ██████╗ 
+  ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██║   ██║████╗  ██║╚══██╔══╝    ██║     ██╔══██╗██╔══██╗
+  ██║  ██║███████║██████╔╝█████╔╝ ███████╗██║   ██║██╔██╗ ██║   ██║       ██║     ███████║██████╔╝
+  ██║  ██║██╔══██║██╔══██╗██╔═██╗ ╚════██║██║   ██║██║╚██╗██║   ██║       ██║     ██╔══██║██╔══██╗
+  ██████╔╝██║  ██║██████╔╝██║  ██╗███████║╚██████╔╝██║ ╚██╗██║   ██║       ███████╗███████║██████╔╝
 
 ```
 
-> **// SYSTEM.PROFILE** — *Build in the shadows, execute with precision.*
+> **[ SYSTEM_OVERRIDE ]** // *INITIATING_FUTURE_SEQUENCE... SECURE CONNECTION ESTABLISHED.*
 
 ---
 
-### `01 / IDENTITY` // qui je suis
+### `01 / CHRONO_IDENTITY` // origines
 
 ```bash
-whoami
+access --user-profile --target=sidy
 
 ```
 
-* **Nom :** Sidy Babaly Sow
-* **Rôle :** Étudiant L2 en Conception et Développement de Solutions Digitales (CDSD) à l'ISM Dakar.
-* **Focus :** Architecture backend, automatisation, IA avec **Python** et applications multiplateformes avec **Flutter**.
-* **Projet :** Fondateur de **NEXTWEB DEV** (Média tech et solutions numériques).
+* **Entité :** Sidy Babaly Sow
+* **Station :** ISM Dakar // 2e année CDSD.
+* **Directive principale :** Développement de systèmes autonomes, back-end intelligent en **Python** et interfaces multiplateformes haute performance avec **Flutter**.
+* **Projet Matrix :** Fondateur de **NEXTWEB DEV** (Média et diffusion de technologies du futur).
 
 ---
 
-### `02 / SYSTEMS` // stack & outils
+### `02 / NEURAL_STACK` // arsenal technique
 
-| Catégorie | Technologies & Outils |
+| Secteur | Technologies |
 | --- | --- |
-| **Backend & IA** | `Python` `FastAPI` `Node.js` `Firebase` |
+| **Backend & IA** | `Python` `FastAPI` `Firebase` `Automation` |
 | **Mobile & Web** | `Flutter` `Dart` `JavaScript` `Tailwind CSS` |
-| **Data & Tools** | `MySQL` `Git` `GitHub` `VS Code` `Xcode` |
+| **Infrastructures** | `MySQL` `Git` `GitHub` `VS Code` `Xcode` |
 
 ---
 
-### `03 / MISSIONS` // projets phares
+### `03 / ACTIVE_MISSIONS` // opérations en cours
 
-* **PharmaMatch AI :** Application mobile Flutter + Firebase boostée par l'API Gemini Vision pour l'analyse d'ordonnances et la gestion de stocks en pharmacie.
-* **NEXTWEB DEV :** Média tech axé sur l'évolution du web, l'intelligence artificielle et l'Open Source.
+* **PharmaMatch AI :** Intelligence artificielle mobile (Flutter + Firebase + Vision API) pour l'analyse de prescriptions en temps réel.
+* **NEXTWEB DEV :** Hub de veille technologique axé sur l'évolution du web et l'Open Source.
 
 ---
 
-### `04 / UPLINK` // me contacter
+### `04 / TRANSMISSION` // canal sécurisé
 
