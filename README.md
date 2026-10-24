@@ -1,8 +1,4 @@
-C'est parti, on va faire un truc largement plus propre et stylé que ça pour **DarkSyntax-Lab** !
 
-Puisque tu es sur une stack **Python** et **Flutter**, avec une identité sombre et percutante, voici le code complet et structuré pour ton fichier `README.md`.
-
-Copie tout ce bloc de code, colle-le dans ton fichier `README.md` sur GitHub, et valide :
 
 ```markdown
 <div align="center">
@@ -53,4 +49,3 @@ whoami
 
 ### `04 / UPLINK` // me contacter
 
-Enregistre ça sur ton dépôt `DarkSyntax-Lab`, va sur ton profil principal, et regarde le résultat : ça va donner un rendu ultra propre, aux couleurs de ta spécialité ! Dis-moi quand c'est validé ce que tu en penses.
