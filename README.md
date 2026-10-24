@@ -1,6 +1,6 @@
 ### 👋 Salut, moi c'est Sidy Babaly Sow
 
-Étudiant en 2e année (L2) en **Conception et Développement de Solutions Digitales (CDSD)** à l'**ISM Dakar**, et futur développeur passionné par la création de solutions numériques à fort impact.
+Étudiant en 2e année (L2) en **Conception et Développement de Solutions Digitales (CDSD)** à l'**ISM Dakar**, et  développeur axé sur la création de solutions numériques à fort impact.
 
 ---
 
